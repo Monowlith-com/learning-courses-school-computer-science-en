@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 371" width="960" height="371" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">Test matrix for a room booking</title>
+<desc id="description">A group of 6 expects True. The boundary cases 10 and 11 expect True and False, respectively. The invalid input minus 1 expects ValueError.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="371" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">Test matrix for a room booking</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<rect x="38" y="111" width="884" height="45" fill="#dce8f1" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Input</text>
+<path d="M332.6666666666667 111 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Case type</text>
+<path d="M627.3333333333334 111 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Expected result</text>
+<rect x="38" y="156" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">6</text>
+<path d="M332.6666666666667 156 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Normal case</text>
+<path d="M627.3333333333334 156 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">True</text>
+<rect x="38" y="201" width="884" height="45" fill="#f2f7fb" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">10</text>
+<path d="M332.6666666666667 201 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Boundary case</text>
+<path d="M627.3333333333334 201 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">True</text>
+<rect x="38" y="246" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">11</text>
+<path d="M332.6666666666667 246 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Boundary case</text>
+<path d="M627.3333333333334 246 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">False</text>
+<rect x="38" y="291" width="884" height="45" fill="#f2f7fb" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="320" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">−1</text>
+<path d="M332.6666666666667 291 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="320" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Error case</text>
+<path d="M627.3333333333334 291 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="320" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">ValueError</text>
+</g>
+</svg>

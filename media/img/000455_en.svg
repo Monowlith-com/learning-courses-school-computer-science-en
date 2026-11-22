@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" width="960" height="480" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">Thermostat with feedback</title>
+<desc id="description">Room temperature determines the sensor reading. The reading reaches the controller. The controller switches the heater, which affects the room.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="480" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">Thermostat with feedback</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<path d="M356.0 165.0 Q480.0 165.0 604.0 165.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="443.5" y="139.0" width="73" height="22" rx="4" fill="#fff"/>
+<text x="480.0" y="155.0" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">Reading</text>
+<path d="M720.0 198.0 Q720.0 260.0 720.0 322.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="652.0" y="234.0" width="136" height="22" rx="4" fill="#fff"/>
+<text x="720.0" y="250.0" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">Switch command</text>
+<path d="M604.0 355.0 Q480.0 355.0 356.0 355.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="457.0" y="329.0" width="46" height="22" rx="4" fill="#fff"/>
+<text x="480.0" y="345.0" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">Heat</text>
+<path d="M240.0 322.0 Q240.0 260.0 240.0 198.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="185.5" y="234.0" width="109" height="22" rx="4" fill="#fff"/>
+<text x="240.0" y="250.0" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">Temperature</text>
+<rect x="124.0" y="132.0" width="232" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="240" y="160.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Sensor</text>
+<text x="240" y="184.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Measure temperature</text>
+<rect x="604.0" y="132.0" width="232" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="720" y="160.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Controller</text>
+<text x="720" y="184.0" font-size="15" text-anchor="middle" font-weight="400" fill="#17293a">Determine heater state</text>
+<rect x="604.0" y="322.0" width="232" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="720" y="350.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Actuator</text>
+<text x="720" y="374.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Switch the heater</text>
+<rect x="124.0" y="322.0" width="232" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="240" y="350.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Room</text>
+<text x="240" y="374.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Temperature changes</text>
+</g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 326" width="960" height="326" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">From characters to UTF-8 bytes</title>
+<desc id="description">A corresponds to U+0041 and byte 41. The letter ä corresponds to U+00E4 and bytes C3 A4. The euro sign corresponds to U+20AC and bytes E2 82 AC.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="326" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">From characters to UTF-8 bytes</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<rect x="38" y="111" width="884" height="45" fill="#dce8f1" stroke="#e2e9ef"/>
+<text x="148.5" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Character</text>
+<path d="M259.0 111 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="369.5" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Code point</text>
+<path d="M480.0 111 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="590.5" y="140" font-size="17" text-anchor="middle" font-weight="650" fill="#17293a">UTF-8 (hexadecimal)</text>
+<path d="M701.0 111 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="811.5" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Byte count</text>
+<rect x="38" y="156" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="148.5" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">A</text>
+<path d="M259.0 156 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="369.5" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">U+0041</text>
+<path d="M480.0 156 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="590.5" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">41</text>
+<path d="M701.0 156 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="811.5" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">1</text>
+<rect x="38" y="201" width="884" height="45" fill="#f2f7fb" stroke="#e2e9ef"/>
+<text x="148.5" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">ä</text>
+<path d="M259.0 201 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="369.5" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">U+00E4</text>
+<path d="M480.0 201 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="590.5" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">C3 A4</text>
+<path d="M701.0 201 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="811.5" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">2</text>
+<rect x="38" y="246" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="148.5" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">€</text>
+<path d="M259.0 246 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="369.5" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">U+20AC</text>
+<path d="M480.0 246 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="590.5" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">E2 82 AC</text>
+<path d="M701.0 246 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="811.5" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">3</text>
+</g>
+</svg>

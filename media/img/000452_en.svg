@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title description">
+<title id="title">Gates for fan control</title>
+<desc id="description">H and M feed OR. F feeds NOT. Both gates feed AND with output Y. With H=1 and M=0, a fault gives Y=0 and no fault gives Y=1.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="8" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 4 L0 8 Z" fill="#253857"/></marker></defs>
+<rect width="960" height="480" fill="#fff"/>
+<path d="M48 82 H912" stroke="#b8c0cc" stroke-width="1"/>
+<g fill="#15233a" font-family="sans-serif">
+<text x="48" y="58" text-anchor="start" font-size="34" font-weight="700">Gates for fan control</text>
+<text x="96" y="145" text-anchor="middle" font-size="25" font-weight="400">H</text>
+<text x="96" y="195" text-anchor="middle" font-size="25" font-weight="400">M</text>
+<text x="96" y="263" text-anchor="middle" font-size="25" font-weight="400">F</text>
+<text x="866" y="221" text-anchor="middle" font-size="25" font-weight="400">Y</text>
+<path d="M119 137 L285 137" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M119 187 L285 187" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M119 254 L285 254" fill="none" stroke="#253857" stroke-width="3"/>
+<rect x="285" y="120" width="118" height="85" fill="#f4f6fa" stroke="#253857" stroke-width="2"/>
+<text x="344" y="171" text-anchor="middle" font-size="25" font-weight="650">OR</text>
+<rect x="285" y="226" width="118" height="56" fill="#f4f6fa" stroke="#253857" stroke-width="2"/>
+<text x="344" y="263" text-anchor="middle" font-size="25" font-weight="650">NOT</text>
+<path d="M403 162 H503 V190 H600" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M403 254 H503 V235 H600" fill="none" stroke="#253857" stroke-width="3"/>
+<rect x="600" y="169" width="118" height="87" fill="#f4f6fa" stroke="#253857" stroke-width="2"/>
+<text x="659" y="221" text-anchor="middle" font-size="25" font-weight="650">AND</text>
+<path d="M718 213 L836 213" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="120" y="374" text-anchor="start" font-size="25" font-weight="650">Two check cases</text>
+<rect x="435" y="313" width="390" height="126" fill="#fff" stroke="#253857" stroke-width="2"/>
+<path d="M435 355 L825 355" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M435 397 L825 397" fill="none" stroke="#253857" stroke-width="3"/>
+<text x="483.75" y="343" text-anchor="middle" font-size="23" font-weight="620">H</text>
+<text x="483.75" y="385" text-anchor="middle" font-size="23" font-weight="400">1</text>
+<text x="483.75" y="427" text-anchor="middle" font-size="23" font-weight="400">1</text>
+<path d="M532.5 313 L532.5 439" fill="none" stroke="#253857" stroke-width="3"/>
+<text x="581.25" y="343" text-anchor="middle" font-size="23" font-weight="620">M</text>
+<text x="581.25" y="385" text-anchor="middle" font-size="23" font-weight="400">0</text>
+<text x="581.25" y="427" text-anchor="middle" font-size="23" font-weight="400">0</text>
+<path d="M630 313 L630 439" fill="none" stroke="#253857" stroke-width="3"/>
+<text x="678.75" y="343" text-anchor="middle" font-size="23" font-weight="620">F</text>
+<text x="678.75" y="385" text-anchor="middle" font-size="23" font-weight="400">0</text>
+<text x="678.75" y="427" text-anchor="middle" font-size="23" font-weight="400">1</text>
+<path d="M727.5 313 L727.5 439" fill="none" stroke="#253857" stroke-width="3"/>
+<text x="776.25" y="343" text-anchor="middle" font-size="23" font-weight="620">Y</text>
+<text x="776.25" y="385" text-anchor="middle" font-size="23" font-weight="400">1</text>
+<text x="776.25" y="427" text-anchor="middle" font-size="23" font-weight="400">0</text>
+</g>
+</svg>

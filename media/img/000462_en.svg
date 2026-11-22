@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 325" width="960" height="325" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">Components of a lending request</title>
+<desc id="description">Input sends item and member identifiers to the lending logic. The logic attempts a database insert. The database allows at most one active loan per item.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="325" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">Components of a lending request</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<rect x="38.0" y="119.0" width="273.3333333333333" height="122" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="174.66666666666666" y="163.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Input</text>
+<text x="174.66666666666666" y="187.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Item identifier</text>
+<text x="174.66666666666666" y="211.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Member identifier</text>
+<path d="M315.3333333333333 180 H338.3333333333333" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="343.33333333333337" y="119.0" width="273.3333333333333" height="122" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="480.0" y="175.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Lending logic</text>
+<text x="480.0" y="199.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Attempt an insert</text>
+<path d="M620.6666666666666 180 H643.6666666666666" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="648.6666666666666" y="119.0" width="273.3333333333333" height="122" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="785.3333333333333" y="163.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Database</text>
+<text x="785.3333333333333" y="187.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">At most one active</text>
+<text x="785.3333333333333" y="211.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">loan per item</text>
+</g>
+</svg>

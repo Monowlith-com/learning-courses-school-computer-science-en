@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" viewBox="0 0 960 480" width="960" height="480" role="img" aria-labelledby="title desc">
+<title id="title">Training and testing a threshold</title>
+<desc id="desc">Four training cases yield threshold 5. Six separate test cases yield two true positives, one false positive, one false negative and two true negatives.</desc>
+<rect x="0" y="0" width="960" height="480" fill="#fff"/>
+<g font-family="Arial, sans-serif">
+<text x="52" y="62" font-size="34" text-anchor="start" fill="#122235" font-weight="700">Training and testing a threshold</text>
+<line x1="52" y1="82" x2="908" y2="82" stroke="#aab6c0" stroke-width="2"/>
+<rect x="55" y="110" width="266" height="88" fill="#fff" stroke="#122235" stroke-width="2" rx="8"/>
+<text x="188" y="146" font-size="22" text-anchor="middle" fill="#122235" font-weight="700">Training data</text>
+<text x="188" y="174" font-size="20" text-anchor="middle" fill="#122235">4 labelled cases</text>
+<line x1="324" y1="154" x2="342" y2="154" stroke="#122235" stroke-width="2"/>
+<line x1="337" y1="149" x2="342" y2="154" stroke="#122235" stroke-width="2"/>
+<line x1="337" y1="159" x2="342" y2="154" stroke="#122235" stroke-width="2"/>
+<rect x="347" y="110" width="266" height="88" fill="#fff" stroke="#122235" stroke-width="2" rx="8"/>
+<text x="480" y="146" font-size="22" text-anchor="middle" fill="#122235" font-weight="700">Choose threshold</text>
+<text x="480" y="174" font-size="20" text-anchor="middle" fill="#122235">Fix threshold at 5</text>
+<line x1="616" y1="154" x2="634" y2="154" stroke="#122235" stroke-width="2"/>
+<line x1="629" y1="149" x2="634" y2="154" stroke="#122235" stroke-width="2"/>
+<line x1="629" y1="159" x2="634" y2="154" stroke="#122235" stroke-width="2"/>
+<rect x="639" y="110" width="266" height="88" fill="#fff" stroke="#122235" stroke-width="2" rx="8"/>
+<text x="772" y="146" font-size="22" text-anchor="middle" fill="#122235" font-weight="700">Separate test data</text>
+<text x="772" y="174" font-size="20" text-anchor="middle" fill="#122235">Evaluate 6 cases</text>
+<text x="55" y="246" font-size="27" text-anchor="start" fill="#122235" font-weight="700">Confusion matrix for the test cases</text>
+<line x1="55" y1="271" x2="905" y2="271" stroke="#aab6c0" stroke-width="2"/>
+<text x="73" y="305" font-size="22" text-anchor="start" fill="#122235" font-weight="700">Reference</text>
+<text x="460" y="305" font-size="22" text-anchor="middle" fill="#122235" font-weight="700">Predicted: water</text>
+<text x="740" y="305" font-size="22" text-anchor="middle" fill="#122235" font-weight="700">Predicted: wait</text>
+<line x1="55" y1="325" x2="905" y2="325" stroke="#aab6c0" stroke-width="2"/>
+<text x="73" y="359" font-size="22" text-anchor="start" fill="#122235">Water (1)</text>
+<text x="460" y="359" font-size="22" text-anchor="middle" fill="#122235">2</text>
+<text x="740" y="359" font-size="22" text-anchor="middle" fill="#122235">1</text>
+<line x1="55" y1="379" x2="905" y2="379" stroke="#aab6c0" stroke-width="2"/>
+<text x="73" y="413" font-size="22" text-anchor="start" fill="#122235">Wait (0)</text>
+<text x="460" y="413" font-size="22" text-anchor="middle" fill="#122235">1</text>
+<text x="740" y="413" font-size="22" text-anchor="middle" fill="#122235">2</text>
+<line x1="55" y1="433" x2="905" y2="433" stroke="#aab6c0" stroke-width="2"/>
+</g>
+</svg>

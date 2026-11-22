@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title description">
+<title id="title">Reachability from direct connections</title>
+<desc id="description">Three solid arrows link hall, lab, studio and office in that order. Dashed arrows lead from the hall to the studio and to the office.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="8" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 4 L0 8 Z" fill="#253857"/></marker></defs>
+<rect width="960" height="480" fill="#fff"/>
+<path d="M48 82 H912" stroke="#b8c0cc" stroke-width="1"/>
+<g fill="#15233a" font-family="sans-serif">
+<text x="48" y="58" text-anchor="start" font-size="34" font-weight="700">Reachability from direct connections</text>
+<path d="M154 226 Q366 29 578 226" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)" stroke-dasharray="8 6"/>
+<path d="M153 292 Q480 475 809 292" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)" stroke-dasharray="8 6"/>
+<path d="M207 258 L292 258" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M437 258 L522 258" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M667 258 L752 258" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="65" y="226" width="142" height="64" fill="#f4f6fa" stroke="#253857" stroke-width="2"/>
+<text x="136" y="267" text-anchor="middle" font-size="26" font-weight="650">Hall</text>
+<rect x="295" y="226" width="142" height="64" fill="#f4f6fa" stroke="#253857" stroke-width="2"/>
+<text x="366" y="267" text-anchor="middle" font-size="26" font-weight="650">Lab</text>
+<rect x="525" y="226" width="142" height="64" fill="#f4f6fa" stroke="#253857" stroke-width="2"/>
+<text x="596" y="267" text-anchor="middle" font-size="26" font-weight="650">Studio</text>
+<rect x="755" y="226" width="142" height="64" fill="#f4f6fa" stroke="#253857" stroke-width="2"/>
+<text x="826" y="267" text-anchor="middle" font-size="26" font-weight="650">Office</text>
+<path d="M110 427 L174 427" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="191" y="435" text-anchor="start" font-size="22" font-weight="400">Direct connection</text>
+<path d="M498 427 L562 427" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)" stroke-dasharray="8 6"/>
+<text x="579" y="435" text-anchor="start" font-size="22" font-weight="400">Destination derived from the hall</text>
+</g>
+</svg>

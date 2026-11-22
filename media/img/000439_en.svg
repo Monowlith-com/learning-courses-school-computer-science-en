@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 325" width="960" height="325" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">From lending question to test</title>
+<desc id="description">Arrows connect four boxes for the lending question, features and rule, program, and expected result.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="325" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">From lending question to test</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<rect x="38.0" y="119.0" width="197.0" height="122" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="136.5" y="175.0" font-size="18" text-anchor="middle" font-weight="650" fill="#17293a">Lending question</text>
+<text x="136.5" y="199.0" font-size="16" text-anchor="middle" font-weight="400" fill="#17293a">Device available?</text>
+<path d="M239.0 180 H262.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="267.0" y="119.0" width="197.0" height="122" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="365.5" y="175.0" font-size="20" text-anchor="middle" font-weight="650" fill="#17293a">Model and rule</text>
+<text x="365.5" y="199.0" font-size="16" text-anchor="middle" font-weight="400" fill="#17293a">On shelf, reserved</text>
+<path d="M468.0 180 H491.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="496.0" y="119.0" width="197.0" height="122" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="594.5" y="175.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Program</text>
+<text x="594.5" y="199.0" font-size="16" text-anchor="middle" font-weight="400" fill="#17293a">Apply the decision</text>
+<path d="M697.0 180 H720.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="725.0" y="119.0" width="197.0" height="122" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="823.5" y="175.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Test</text>
+<text x="823.5" y="199.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Compare outcomes</text>
+</g>
+</svg>

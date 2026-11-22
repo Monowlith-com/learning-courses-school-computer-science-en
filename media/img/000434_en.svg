@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+<title id="title">From test to supported claim</title>
+<desc id="desc">A question connects the program version and test data to passing and failing trials. The results support a report stating the limits and a reasoned oral presentation. Nominal test: CAM-2 is accepted; after a restart CAM-1 is incorrectly accepted.</desc>
+<rect width="960" height="480" fill="#ffffff"/>
+<g font-family="Arial, sans-serif" fill="#172b42">
+<text x="44" y="59" font-size="32" font-weight="700">From test to supported claim</text>
+<line x1="44" y1="76" x2="916" y2="76" stroke="#aabac9" stroke-width="2"/>
+<rect x="44" y="113" rx="11" width="168" height="140" fill="#edf5fb" stroke="#aabac9" stroke-width="1.6"/>
+<circle cx="65" cy="135" r="11" fill="#195d90"/>
+<text x="65" y="141" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">1</text>
+<text x="128" y="178" text-anchor="middle" font-size="21" font-weight="700">Question</text>
+<text x="128" y="212" text-anchor="middle" font-size="16">testable rule</text>
+<path d="M 214 185 h 4 m -4 -5 l 5 5 -5 5" fill="none" stroke="#195d90" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="220" y="113" rx="11" width="168" height="140" fill="#edf5fb" stroke="#aabac9" stroke-width="1.6"/>
+<circle cx="241" cy="135" r="11" fill="#195d90"/>
+<text x="241" y="141" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">2</text>
+<text x="304" y="178" text-anchor="middle" font-size="21" font-weight="700">Version</text>
+<text x="304" y="212" text-anchor="middle" font-size="16">test data</text>
+<path d="M 390 185 h 4 m -4 -5 l 5 5 -5 5" fill="none" stroke="#195d90" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="396" y="113" rx="11" width="168" height="140" fill="#eaf8f7" stroke="#aabac9" stroke-width="1.6"/>
+<circle cx="417" cy="135" r="11" fill="#195d90"/>
+<text x="417" y="141" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">3</text>
+<text x="480" y="178" text-anchor="middle" font-size="21" font-weight="700">Trials</text>
+<text x="480" y="212" text-anchor="middle" font-size="16">expected / actual</text>
+<path d="M 566 185 h 4 m -4 -5 l 5 5 -5 5" fill="none" stroke="#195d90" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="572" y="113" rx="11" width="168" height="140" fill="#edf5fb" stroke="#aabac9" stroke-width="1.6"/>
+<circle cx="593" cy="135" r="11" fill="#195d90"/>
+<text x="593" y="141" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">4</text>
+<text x="656" y="178" text-anchor="middle" font-size="21" font-weight="700">Report</text>
+<text x="656" y="212" text-anchor="middle" font-size="16">limitations</text>
+<path d="M 742 185 h 4 m -4 -5 l 5 5 -5 5" fill="none" stroke="#195d90" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="748" y="113" rx="11" width="168" height="140" fill="#edf5fb" stroke="#aabac9" stroke-width="1.6"/>
+<circle cx="769" cy="135" r="11" fill="#195d90"/>
+<text x="769" y="141" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">5</text>
+<text x="832" y="178" text-anchor="middle" font-size="21" font-weight="700">Defence</text>
+<text x="832" y="212" text-anchor="middle" font-size="16">reasoning</text>
+<rect x="64" y="277" rx="7" width="832" height="53" fill="#e8f7ef"/>
+<rect x="64" y="342" rx="7" width="832" height="53" fill="#fdf0ec"/>
+<circle cx="89" cy="304" r="9" fill="#0e6953"/>
+<circle cx="89" cy="369" r="9" fill="#9a3a2e"/>
+<text x="111" y="311" font-size="20" fill="#0e6953" font-weight="700">Nominal test: CAM-2 free  →  accepted</text>
+<text x="111" y="376" font-size="20" fill="#9a3a2e" font-weight="700">After restart: CAM-1 busy  →  incorrectly accepted</text>
+<text x="64" y="444" font-size="17">Evidence chain: findings and limitations must remain traceable.</text>
+</g></svg>

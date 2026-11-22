@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title description">
+<title id="title">Derivation tree for the word aabb</title>
+<desc id="description">The start symbol S branches into a, S and b. The middle S branches again into a, S and b. The innermost S derives the empty word ε.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="8" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 4 L0 8 Z" fill="#253857"/></marker></defs>
+<rect width="960" height="480" fill="#fff"/>
+<path d="M48 82 H912" stroke="#b8c0cc" stroke-width="1"/>
+<g fill="#15233a" font-family="sans-serif">
+<text x="48" y="58" text-anchor="start" font-size="34" font-weight="700">Derivation tree for the word aabb</text>
+<path d="M480 129 L245 207" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M480 129 L480 207" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M480 129 L715 207" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M480 207 L380 285" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M480 207 L480 285" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M480 207 L580 285" fill="none" stroke="#253857" stroke-width="3"/>
+<path d="M480 285 L480 360" fill="none" stroke="#253857" stroke-width="3"/>
+<circle cx="480" cy="129" r="25" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="480" y="138" text-anchor="middle" font-size="27" font-weight="650">S</text>
+<circle cx="245" cy="207" r="25" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="245" y="216" text-anchor="middle" font-size="27" font-weight="400">a</text>
+<circle cx="480" cy="207" r="25" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="480" y="216" text-anchor="middle" font-size="27" font-weight="650">S</text>
+<circle cx="715" cy="207" r="25" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="715" y="216" text-anchor="middle" font-size="27" font-weight="400">b</text>
+<circle cx="380" cy="285" r="25" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="380" y="294" text-anchor="middle" font-size="27" font-weight="400">a</text>
+<circle cx="480" cy="285" r="25" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="480" y="294" text-anchor="middle" font-size="27" font-weight="650">S</text>
+<circle cx="580" cy="285" r="25" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="580" y="294" text-anchor="middle" font-size="27" font-weight="400">b</text>
+<circle cx="480" cy="360" r="25" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="480" y="369" text-anchor="middle" font-size="27" font-weight="400">ε</text>
+<text x="665" y="350" text-anchor="start" font-size="22" font-weight="400">ε: empty word</text>
+<text x="480" y="436" text-anchor="middle" font-size="23" font-weight="400">Terminals from left to right:  a a b b</text>
+</g>
+</svg>

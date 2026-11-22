@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" width="960" height="510" viewBox="0 0 960 510" role="img" aria-labelledby="image-title image-desc">
+<title id="image-title">Sampling and quantising a voltage</title>
+<desc id="image-desc">At 0 to 4 seconds the sample points are 0.20, 0.76, 1.27, 1.69 and 1.51 V. Squares mark the levels 0, 1, 1.5, 1.5 and 1.5 V. The curve reaches an unsampled peak of 2.2 V at 2.5 seconds.</desc>
+<rect width="960" height="510" fill="#fff"/>
+<g font-family="Arial, sans-serif" fill="#17293a">
+<text x="45" y="54" font-size="32" font-weight="700">Sampling and quantising a voltage</text>
+<path d="M45 77H915" stroke="#d7dee6" stroke-width="2"/>
+<text x="122" y="105" font-size="18" text-anchor="start" font-weight="700">Voltage (V)</text>
+<text x="833" y="446" font-size="18" text-anchor="end" font-weight="700">Time (s)</text>
+<path d="M125 392.0H833" stroke="#e0e6ec" stroke-width="1.5"/>
+<text x="107" y="397.0" font-size="18" text-anchor="end" font-weight="400">0</text>
+<path d="M125 341.0H833" stroke="#e0e6ec" stroke-width="1.5"/>
+<text x="107" y="346.0" font-size="18" text-anchor="end" font-weight="400">0.5</text>
+<path d="M125 290.0H833" stroke="#e0e6ec" stroke-width="1.5"/>
+<text x="107" y="295.0" font-size="18" text-anchor="end" font-weight="400">1</text>
+<path d="M125 239.0H833" stroke="#e0e6ec" stroke-width="1.5"/>
+<text x="107" y="244.0" font-size="18" text-anchor="end" font-weight="400">1.5</text>
+<path d="M125 188.0H833" stroke="#e0e6ec" stroke-width="1.5"/>
+<text x="107" y="193.0" font-size="18" text-anchor="end" font-weight="400">2</text>
+<path d="M125 137.0H833" stroke="#e0e6ec" stroke-width="1.5"/>
+<text x="107" y="142.0" font-size="18" text-anchor="end" font-weight="400">2.5</text>
+<path d="M125 135V392H847" fill="none" stroke="#17293a" stroke-width="2"/>
+<path d="M125 392V399" stroke="#17293a" stroke-width="2" /><text x="125" y="422" font-size="18" text-anchor="middle" font-weight="400">0</text>
+<path d="M302 392V399" stroke="#17293a" stroke-width="2" /><text x="302" y="422" font-size="18" text-anchor="middle" font-weight="400">1</text>
+<path d="M479 392V399" stroke="#17293a" stroke-width="2" /><text x="479" y="422" font-size="18" text-anchor="middle" font-weight="400">2</text>
+<path d="M656 392V399" stroke="#17293a" stroke-width="2" /><text x="656" y="422" font-size="18" text-anchor="middle" font-weight="400">3</text>
+<path d="M833 392V399" stroke="#17293a" stroke-width="2" /><text x="833" y="422" font-size="18" text-anchor="middle" font-weight="400">4</text>
+<polyline points="125,371.6 186.95,361.4 302,314.48 417.05,300.2 479,262.46 567.5,167.6 656,219.62 771.05,253.28 833,237.98" stroke="#245a7b" stroke-width="3.4" fill="none"/>
+<path d="M125 371.6V392" stroke="#8a4234" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="125" cy="371.6" r="6" fill="#245a7b" stroke="#fff" stroke-width="1.5"/>
+<rect x="120" y="387" width="10" height="10" fill="#fff" stroke="#8a4234" stroke-width="2.5"/>
+<path d="M302 314.48V290" stroke="#8a4234" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="302" cy="314.48" r="6" fill="#245a7b" stroke="#fff" stroke-width="1.5"/>
+<rect x="297" y="285" width="10" height="10" fill="#fff" stroke="#8a4234" stroke-width="2.5"/>
+<path d="M479 262.46000000000004V239.0" stroke="#8a4234" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="479" cy="262.46000000000004" r="6" fill="#245a7b" stroke="#fff" stroke-width="1.5"/>
+<rect x="474" y="234.0" width="10" height="10" fill="#fff" stroke="#8a4234" stroke-width="2.5"/>
+<path d="M656 219.62V239.0" stroke="#8a4234" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="656" cy="219.62" r="6" fill="#245a7b" stroke="#fff" stroke-width="1.5"/>
+<rect x="651" y="234.0" width="10" height="10" fill="#fff" stroke="#8a4234" stroke-width="2.5"/>
+<path d="M833 237.98V239.0" stroke="#8a4234" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="833" cy="237.98" r="6" fill="#245a7b" stroke="#fff" stroke-width="1.5"/>
+<path d="M833 239.0H844" stroke="#8a4234" stroke-width="2" stroke-dasharray="3 2"/>
+<rect x="839" y="234.0" width="10" height="10" fill="#fff" stroke="#8a4234" stroke-width="2.5"/>
+<path d="M571.5 169.6l45 -27" stroke="#476174" stroke-width="1.5"/>
+<text x="617.5" y="140.6" font-size="18" text-anchor="start" font-weight="400">Peak between samples</text>
+<path d="M127 472H160" stroke="#245a7b" stroke-width="3.4"/>
+<text x="170" y="478" font-size="19" text-anchor="start" font-weight="400">Simulated curve</text>
+<circle cx="379" cy="472" r="6" fill="#245a7b"/>
+<text x="393" y="478" font-size="19" text-anchor="start" font-weight="400">Sampled reading</text>
+<rect x="637" y="467" width="10" height="10" fill="#fff" stroke="#8a4234" stroke-width="2.5"/>
+<text x="661" y="478" font-size="19" text-anchor="start" font-weight="400">Stored level</text>
+</g>
+</svg>

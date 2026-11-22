@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 416" width="960" height="416" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">Context of a temperature reading</title>
+<desc id="description">The raw value 21 denotes room temperature in degrees Celsius. It was recorded by instrument A at the window at 09:00 on 12 May.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="416" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">Context of a temperature reading</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<rect x="38" y="111" width="884" height="45" fill="#dce8f1" stroke="#e2e9ef"/>
+<text x="259.0" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Information</text>
+<path d="M480.0 111 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="701.0" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Example</text>
+<rect x="38" y="156" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="259.0" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Raw value</text>
+<path d="M480.0 156 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="701.0" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">21</text>
+<rect x="38" y="201" width="884" height="45" fill="#f2f7fb" stroke="#e2e9ef"/>
+<text x="259.0" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Quantity</text>
+<path d="M480.0 201 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="701.0" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Room temperature</text>
+<rect x="38" y="246" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="259.0" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Unit</text>
+<path d="M480.0 246 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="701.0" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Degrees Celsius (°C)</text>
+<rect x="38" y="291" width="884" height="45" fill="#f2f7fb" stroke="#e2e9ef"/>
+<text x="259.0" y="320" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Date and time</text>
+<path d="M480.0 291 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="701.0" y="320" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">12 May · 09:00</text>
+<rect x="38" y="336" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="259.0" y="365" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Location and source</text>
+<path d="M480.0 336 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="701.0" y="365" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">At the window · instrument A</text>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title description">
+<title id="title">Automaton for an even number of ones</title>
+<desc id="description">Start arrow into the double-ringed state G. G and U have loops labelled 0. Each directed link between G and U is labelled 1.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="8" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 4 L0 8 Z" fill="#253857"/></marker></defs>
+<rect width="960" height="480" fill="#fff"/>
+<path d="M48 82 H912" stroke="#b8c0cc" stroke-width="1"/>
+<g fill="#15233a" font-family="sans-serif">
+<text x="48" y="58" text-anchor="start" font-size="34" font-weight="700">Automaton for an even number of ones</text>
+<path d="M361 218 C447 161 513 161 599 218" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M599 272 C513 329 447 329 361 272" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M268 194 C239 91 360 91 332 191" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M628 194 C599 91 720 91 692 191" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="300" y="113" text-anchor="middle" font-size="25" font-weight="400">0</text>
+<text x="660" y="113" text-anchor="middle" font-size="25" font-weight="400">0</text>
+<text x="480" y="167" text-anchor="middle" font-size="25" font-weight="400">1</text>
+<text x="480" y="347" text-anchor="middle" font-size="25" font-weight="400">1</text>
+<path d="M112 245 L230 245" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="165" y="220" text-anchor="middle" font-size="25" font-weight="400">Start</text>
+<circle cx="300" cy="245" r="62" fill="#f4f6fa" stroke="#253857" stroke-width="3"/>
+<circle cx="300" cy="245" r="55" fill="none" stroke="#253857" stroke-width="2"/>
+<circle cx="660" cy="245" r="62" fill="#f4f6fa" stroke="#253857" stroke-width="3"/>
+<text x="300" y="240" text-anchor="middle" font-size="30" font-weight="650">G</text>
+<text x="300" y="270" text-anchor="middle" font-size="22" font-weight="400">even</text>
+<text x="660" y="240" text-anchor="middle" font-size="30" font-weight="650">U</text>
+<text x="660" y="270" text-anchor="middle" font-size="22" font-weight="400">odd</text>
+<text x="480" y="432" text-anchor="middle" font-size="22" font-weight="400">Double circle: accepting state</text>
+</g>
+</svg>

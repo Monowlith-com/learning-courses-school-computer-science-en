@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 371" width="960" height="371" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">Functional dependencies in a registration</title>
+<desc id="description">Student ID determines the name, workshop ID determines the title and room ID, room ID determines the room name, and the student–workshop pair determines the registration date. Values then belong in student, workshop, room and registration.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="371" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">Functional dependencies in a registration</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<rect x="38" y="111" width="884" height="45" fill="#dce8f1" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Determined by</text>
+<path d="M332.6666666666667 111 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Dependent value</text>
+<path d="M627.3333333333334 111 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="140" font-size="21" text-anchor="middle" font-weight="650" fill="#17293a">Table afterwards</text>
+<rect x="38" y="156" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Student ID</text>
+<path d="M332.6666666666667 156 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Student name</text>
+<path d="M627.3333333333334 156 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="185" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Student</text>
+<rect x="38" y="201" width="884" height="45" fill="#f2f7fb" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Workshop ID</text>
+<path d="M332.6666666666667 201 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Title and room ID</text>
+<path d="M627.3333333333334 201 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="230" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Workshop</text>
+<rect x="38" y="246" width="884" height="45" fill="#fff" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Room ID</text>
+<path d="M332.6666666666667 246 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Room name</text>
+<path d="M627.3333333333334 246 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="275" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Room</text>
+<rect x="38" y="291" width="884" height="45" fill="#f2f7fb" stroke="#e2e9ef"/>
+<text x="185.33333333333334" y="320" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Student + workshop</text>
+<path d="M332.6666666666667 291 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="480.0" y="320" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Registration date</text>
+<path d="M627.3333333333334 291 v45" fill="none" stroke="#476174" stroke-width="2.4"/>
+<text x="774.6666666666667" y="320" font-size="21" text-anchor="middle" font-weight="400" fill="#17293a">Registration</text>
+</g>
+</svg>

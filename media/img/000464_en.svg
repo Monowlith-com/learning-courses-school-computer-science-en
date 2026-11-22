@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title description">
+<title id="title">Three configurations of a Turing machine</title>
+<desc id="description">Initially q is at position 0 and the tape is 1 blank blank. After one transition q is at position 1, with the tape unchanged. Then h is at position 2, with tape 1 1 blank.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="8" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 4 L0 8 Z" fill="#253857"/></marker></defs>
+<rect width="960" height="480" fill="#fff"/>
+<path d="M48 82 H912" stroke="#b8c0cc" stroke-width="1"/>
+<g fill="#15233a" font-family="sans-serif">
+<text x="48" y="58" text-anchor="start" font-size="34" font-weight="700">Three configurations of a Turing machine</text>
+<text x="155" y="136" text-anchor="middle" font-size="25" font-weight="650">Start</text>
+<rect x="62" y="230" width="62" height="59" fill="#eef3fa" stroke="#253857" stroke-width="2"/>
+<text x="93" y="267" text-anchor="middle" font-size="29" font-weight="400">1</text>
+<text x="93" y="315" text-anchor="middle" font-size="20" font-weight="400">0</text>
+<rect x="124" y="230" width="62" height="59" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="155" y="267" text-anchor="middle" font-size="29" font-weight="400">□</text>
+<text x="155" y="315" text-anchor="middle" font-size="20" font-weight="400">1</text>
+<rect x="186" y="230" width="62" height="59" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="217" y="267" text-anchor="middle" font-size="29" font-weight="400">□</text>
+<text x="217" y="315" text-anchor="middle" font-size="20" font-weight="400">2</text>
+<text x="93" y="183" text-anchor="middle" font-size="25" font-weight="650">q</text>
+<path d="M93 191 L93 224" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="155" y="357" text-anchor="middle" font-size="20" font-weight="400">Head on the first one</text>
+<path d="M263 260 L370 260" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="480" y="136" text-anchor="middle" font-size="25" font-weight="650">After 1 transition</text>
+<rect x="387" y="230" width="62" height="59" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="418" y="267" text-anchor="middle" font-size="29" font-weight="400">1</text>
+<text x="418" y="315" text-anchor="middle" font-size="20" font-weight="400">0</text>
+<rect x="449" y="230" width="62" height="59" fill="#eef3fa" stroke="#253857" stroke-width="2"/>
+<text x="480" y="267" text-anchor="middle" font-size="29" font-weight="400">□</text>
+<text x="480" y="315" text-anchor="middle" font-size="20" font-weight="400">1</text>
+<rect x="511" y="230" width="62" height="59" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="542" y="267" text-anchor="middle" font-size="29" font-weight="400">□</text>
+<text x="542" y="315" text-anchor="middle" font-size="20" font-weight="400">2</text>
+<text x="480" y="183" text-anchor="middle" font-size="25" font-weight="650">q</text>
+<path d="M480 191 L480 224" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="480" y="357" text-anchor="middle" font-size="20" font-weight="400">Head on the blank cell</text>
+<path d="M588 260 L695 260" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="805" y="136" text-anchor="middle" font-size="25" font-weight="650">After 2 transitions</text>
+<rect x="712" y="230" width="62" height="59" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="743" y="267" text-anchor="middle" font-size="29" font-weight="400">1</text>
+<text x="743" y="315" text-anchor="middle" font-size="20" font-weight="400">0</text>
+<rect x="774" y="230" width="62" height="59" fill="#fff" stroke="#253857" stroke-width="2"/>
+<text x="805" y="267" text-anchor="middle" font-size="29" font-weight="400">1</text>
+<text x="805" y="315" text-anchor="middle" font-size="20" font-weight="400">1</text>
+<rect x="836" y="230" width="62" height="59" fill="#eef3fa" stroke="#253857" stroke-width="2"/>
+<text x="867" y="267" text-anchor="middle" font-size="29" font-weight="400">□</text>
+<text x="867" y="315" text-anchor="middle" font-size="20" font-weight="400">2</text>
+<text x="867" y="183" text-anchor="middle" font-size="25" font-weight="650">h</text>
+<path d="M867 191 L867 224" fill="none" stroke="#253857" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="805" y="357" text-anchor="middle" font-size="20" font-weight="400">Machine halts</text>
+<text x="480" y="430" text-anchor="middle" font-size="23" font-weight="400">□  denotes a blank cell.</text>
+</g>
+</svg>
