@@ -1,10 +1,10 @@
 ---
 document_id: "school_computer_science_en:study-path"
 series_id: "school_computer_science_en:_index"
-series_part: 47
-document_version: "1.0.0"
+series_part: 52
+document_version: "1.0.1"
 created: "2026-11-22"
-updated: "2026-11-22"
+updated: "2026-11-24"
 title: "Study path and preparation for the Abitur"
 author: "Stephan Kühn"
 document_type: "Study path"
@@ -48,3 +48,19 @@ Work through a worked example first, then cover the solutions and complete the s
 - [Ministerium für Bildung Rheinland-Pfalz, Mainzer Studienstufe – Mainzer Studienstufe – Gliederung](https://mss.rlp.de/organisation/gliederung/seite) · Lesson reference: Wie ist die MAINZER STUDIENSTUFE strukturiert? – Für G9 gilt; Für G8GTS gilt · Last accessed: 2026-11-22 · Content verified: 2026-11-22
 - [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium – Fachprofil Informatik](https://www.lehrplanplus.bayern.de/fachprofil/gymnasium/informatik) · Lesson reference: Abschnitte 2 und 3, insbesondere Jahrgangsaufbau · Last accessed: 2026-11-22 · Content verified: 2026-11-22
 - [Kultusministerkonferenz (KMK) – Einheitliche Prüfungsanforderungen in der Abiturprüfung Informatik (EPA)](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/1989/1989_12_01_EPA_Informatik.pdf) · Lesson reference: Teil I §1.1–1.3, S. 4–9; §2.2.1–2.2.3, S. 10–12; §3–4, S. 12–15 · Last accessed: 2026-11-22 · Content verified: 2026-11-22
+
+## Additional study routes and advanced topics {#S5}
+
+After M3 and M6, M11 and M12 are useful upper secondary extensions; classification as basic or advanced level depends on the regional curriculum.
+
+### M11 – Linked structures and graph search
+
+- [M11-L1 – Singly linked lists](../M11-L1.md) — Upper secondary (basic level); Basic level
+- [M11-L2 – Binary search trees and traversal](../M11-L2.md) — Upper secondary (basic level); Basic level
+- [M11-L3 – Depth-first search and reachable vertices](../M11-L3.md) — Upper secondary (basic level); Basic level
+
+### M12 – Computer arithmetic and register machines
+
+- [M12-L1 – Binary addition, two’s complement and overflow](../M12-L1.md) — Upper secondary (advanced level); Advanced level
+- [M12-L2 – Register machine and instruction cycle](../M12-L2.md) — Upper secondary (advanced level); Advanced level
+

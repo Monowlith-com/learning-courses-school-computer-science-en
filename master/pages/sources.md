@@ -1,10 +1,10 @@
 ---
 document_id: "school_computer_science_en:sources"
 series_id: "school_computer_science_en:_index"
-series_part: 48
-document_version: "1.0.0"
+series_part: 53
+document_version: "1.0.2"
 created: "2026-11-22"
-updated: "2026-11-22"
+updated: "2026-11-24"
 title: "Sources"
 author: "Stephan Kühn"
 document_type: "Sources"
@@ -32,8 +32,8 @@ license: "CC BY-NC-SA 4.0 International"
 - [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 10 – Informatik](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/10/informatik) · Lesson reference: Inf10 Lernbereiche 1–3 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M5-L1](../M5-L1.md#S7)
 - [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 11 – Informatik (NTG)](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/11/informatik/ntg) · Lesson reference: Inf11 Lernbereiche 1–5 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M6-L5](../M6-L5.md#S7)
 - [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 11 – spät beginnende Informatik](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/11/informatik/mug_swg_sg) · Lesson reference: Inf11 Lernbereiche 1–4 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M4-L4](../M4-L4.md#S7), [M9-L2](../M9-L2.md#S7)
-- [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 12 – Informatik, erhöhtes Niveau](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/12/informatik/erhoeht) · Lesson reference: Inf12 Lernbereiche 1–7, insbesondere 4, 5, 6 und 7 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M7-L1](../M7-L1.md#S7), [M8-L5](../M8-L5.md#S7)
-- [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 12 – Informatik, grundlegendes Niveau](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/12/informatik/grundlegend) · Lesson reference: Inf12 Lernbereiche 1–6 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M6-L4](../M6-L4.md#S7), [M6-L5](../M6-L5.md#S7), [M8-L3](../M8-L3.md#S7), [M8-L4](../M8-L4.md#S7)
+- [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 12 – Informatik, erhöhtes Niveau](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/12/informatik/erhoeht) · Lesson reference: Inf12 Lernbereiche 1–7, insbesondere 4, 5, 6 und 7 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M7-L1](../M7-L1.md#S7), [M8-L5](../M8-L5.md#S7) · New use: [M12-L1](../M12-L1.md#S8), [M12-L2](../M12-L2.md#S8) · M12-L1: Inf12 Lernbereich 4; M12-L2: Inf12 Lernbereich 4
+- [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 12 – Informatik, grundlegendes Niveau](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/12/informatik/grundlegend) · Lesson reference: Inf12 Lernbereiche 1–6 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M6-L4](../M6-L4.md#S7), [M6-L5](../M6-L5.md#S7), [M8-L3](../M8-L3.md#S7), [M8-L4](../M8-L4.md#S7) · New use: [M11-L1](../M11-L1.md#S8), [M11-L2](../M11-L2.md#S8), [M11-L3](../M11-L3.md#S8) · M11-L1: Inf12 Lernbereich 2; M11-L2: Inf12 Lernbereich 3; M11-L3: Inf12 Lernbereich 1
 - [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 13 – Informatik, erhöhtes Niveau](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/13/informatik/erhoeht) · Lesson reference: Inf13 Lernbereiche 1–4 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M7-L4](../M7-L4.md#S7), [M7-L5](../M7-L5.md#S7), [M7-L6](../M7-L6.md#S7), [M8-L5](../M8-L5.md#S7)
 - [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium 13 – Informatik, grundlegendes Niveau](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/13/informatik/grundlegend) · Lesson reference: Inf13 Lernbereiche 1–4 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M7-L2](../M7-L2.md#S7), [M7-L4](../M7-L4.md#S7), [M9-L3](../M9-L3.md#S7)
 - [Gesellschaft für Informatik e. V. – Bildungsstandards Informatik für die Sekundarstufe I](https://informatikstandards.de/fileadmin/FA/IBS/user_upload/GI-Bildungsstandards_Informatik_Sek_I__2025__-_blau.pdf) · Lesson reference: Kap. 3–5, besonders §§4.1–4.5, S. 10–15, §§5.1–5.5, S. 16–21 · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M1-L1](../M1-L1.md#S7), [M1-L2](../M1-L2.md#S7), [M1-L3](../M1-L3.md#S7), [M1-L4](../M1-L4.md#S7), [M2-L1](../M2-L1.md#S7), [M2-L2](../M2-L2.md#S7), [M2-L3](../M2-L3.md#S7), [M2-L4](../M2-L4.md#S7), [M3-L1](../M3-L1.md#S7), [M3-L2](../M3-L2.md#S7), [M3-L3](../M3-L3.md#S7), [M3-L4](../M3-L4.md#S7), [M3-L5](../M3-L5.md#S7), [M4-L1](../M4-L1.md#S7), [M4-L2](../M4-L2.md#S7), [M4-L3](../M4-L3.md#S7), [M5-L1](../M5-L1.md#S7), [M5-L2](../M5-L2.md#S7), [M8-L1](../M8-L1.md#S7), [M9-L1](../M9-L1.md#S7), [M9-L2](../M9-L2.md#S7), [M9-L3](../M9-L3.md#S7), [M9-L4](../M9-L4.md#S7), [Study path](study-path.md#S4)
@@ -69,3 +69,15 @@ license: "CC BY-NC-SA 4.0 International"
 - [W3C Web Accessibility Initiative – Understanding Success Criterion 1.1.1: Non-text Content](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html) · Lesson reference: Intent · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M9-L4](../M9-L4.md#S7)
 - [W3C Web Accessibility Initiative – Understanding Success Criterion 2.4.7: Focus Visible](https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html) · Lesson reference: Intent · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M9-L4](../M9-L4.md#S7)
 - [W3C Web Accessibility Initiative – Understanding Success Criterion 2.1.1: Keyboard](https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html) · Lesson reference: Intent · Last accessed: 2026-11-22 · Content verified: 2026-11-22 · [M9-L4](../M9-L4.md#S7)
+
+## Sources for the additional lessons {#S3}
+
+These references supplement the historical inventory. Existing entries have been extended with the new uses where applicable.
+
+- [Cornell CS 2110 – Graph Traversals](https://courses.cs.cornell.edu/cs2110/2025fa/lectures/lec22/) · M11-L3: DFS, BFS, Complexity Analysis · Last accessed: 2026-11-24 · Content verified: 2026-11-24 · [M11-L3](../M11-L3.md#S8)
+- [University of Iowa – CS:2630, Chapter 8](https://homepage.cs.uiowa.edu/~dwjones/assem/notes/08arith.shtml) · M12-L1: Full adder and switching theory · Last accessed: 2026-11-24 · Content verified: 2026-11-24 · [M12-L1](../M12-L1.md#S8)
+- [Runestone – Implementing an Unordered List](https://runestone.academy/ns/books/published/pythonds3/BasicDS/ImplementinganUnorderedListLinkedLists.html) · M11-L1: 3.21 · Last accessed: 2026-11-24 · Content verified: 2026-11-24 · [M11-L1](../M11-L1.md#S8)
+- [Runestone – Search Tree Analysis](https://runestone.academy/ns/books/published/pythonds3/Trees/SearchTreeAnalysis.html) · M11-L2: 6.15 · Last accessed: 2026-11-24 · Content verified: 2026-11-24 · [M11-L2](../M11-L2.md#S8)
+- [Runestone – Tree Traversals](https://runestone.academy/ns/books/published/pythonds3/Trees/TreeTraversals.html) · M11-L2: 6.8 · Last accessed: 2026-11-24 · Content verified: 2026-11-24 · [M11-L2](../M11-L2.md#S8)
+- [Universität Marburg – Technical Computer Science, Part 2, Chapter 2](https://www.mathematik.uni-marburg.de/~thormae/lectures/ti1/ti_2_2_eng_web.html) · M12-L1: Two’s Complement; overflow · Last accessed: 2026-11-24 · Content verified: 2026-11-24 · [M12-L1](../M12-L1.md#S8)
+- [Yale University – CS 2000: Computer Architecture](https://zoo.cs.yale.edu/classes/cs200/lectures/Architecture.html) · M12-L2: Computer Architecture I and III; fetch/decode/execute and indirect addressing · Last accessed: 2026-11-24 · Content verified: 2026-11-24 · [M12-L2](../M12-L2.md#S8)

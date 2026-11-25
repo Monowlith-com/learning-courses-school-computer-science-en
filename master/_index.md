@@ -2,9 +2,9 @@
 document_id: "school_computer_science_en:_index"
 series_id: "school_computer_science_en:_index"
 series_part: 1
-document_version: "1.0.0"
+document_version: "1.0.1"
 created: "2026-11-22"
-updated: "2026-11-22"
+updated: "2026-11-24"
 title: "Course overview – School · Computer Science through Upper Secondary Education"
 author: "Stephan Kühn"
 document_type: "Course overview"
@@ -29,7 +29,7 @@ This self-study course begins with everyday computing systems and moves from fir
 
 ## Modules and lessons {#S2}
 
-The course contains 45 lessons in 10 modules that build on each other.
+The course contains 50 lessons in 12 modules that build on each other.
 
 ### [M1 – Orientation and computing systems](M1-L1.md)
 
@@ -105,6 +105,21 @@ The course contains 45 lessons in 10 modules that build on each other.
 - [Exam practice: analysing an unfamiliar algorithm](M10-L2.md)
 - [Exam practice: transfer and reasoned judgement](M10-L3.md)
 - [Project report and oral examination](M10-L4.md)
+
+### [M11 – Linked structures and graph search](M11-L1.md)
+
+3 lessons.
+
+- [M11-L1 – Singly linked lists](M11-L1.md)
+- [M11-L2 – Binary search trees and traversal](M11-L2.md)
+- [M11-L3 – Depth-first search and reachable vertices](M11-L3.md)
+
+### [M12 – Computer arithmetic and register machines](M12-L1.md)
+
+2 lessons.
+
+- [M12-L1 – Binary addition, two’s complement and overflow](M12-L1.md)
+- [M12-L2 – Register machine and instruction cycle](M12-L2.md)
 
 ## Study paths and sources {#S3}
 

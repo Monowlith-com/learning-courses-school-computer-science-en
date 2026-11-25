@@ -8,8 +8,8 @@ Structured learning course in English.
 ![language](https://img.shields.io/badge/language-EN-blue?style=flat-square)
 ![level](https://img.shields.io/badge/level-school-blue?style=flat-square)
 ![subject](https://img.shields.io/badge/subject-Computer%20Science-blue?style=flat-square)
-![modules](https://img.shields.io/badge/modules-10-blue?style=flat-square)
-![lessons](https://img.shields.io/badge/lessons-45-blue?style=flat-square)
+![modules](https://img.shields.io/badge/modules-12-blue?style=flat-square)
+![lessons](https://img.shields.io/badge/lessons-50-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/monowlith-com/learning-courses-school-computer-science-en?style=flat-square)
 
@@ -21,7 +21,7 @@ Structured learning course in English.
 
 ## Overview
 
-This course contains 45 lessons in 10 modules. Study in sequence or use the materials for reference, revision and further study. They do not replace formal education or an accredited qualification.
+This course contains 50 lessons in 12 modules. Study in sequence or use the materials for reference, revision and further study. They do not replace formal education or an accredited qualification.
 
 ## Contents
 
